@@ -11,7 +11,7 @@ Aplikasi sederhana biodata
 1. Clone repository ini:
    ``` bash
        git clone https://github.com/rijalulakhri-code/app_siat
-       cd API_Film
+       cd app_siat
 
 2. Ambil database app_siat.sql dan import
 
